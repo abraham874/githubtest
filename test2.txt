@@ -1,0 +1,2 @@
+A is Apple
+B is Ball
